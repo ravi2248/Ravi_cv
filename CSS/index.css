@@ -1,0 +1,70 @@
+#navigation
+{
+	position: fixed;
+	width: 100%;
+}
+#header
+{
+	background-color: #B5EAEA;
+	height: 100%;
+	padding-top: 100px;
+	padding-bottom: 10px;
+	font-family: 'Yomogi', cursive;
+	font-size: 30px;
+	border-bottom: 1px solid silver;
+}
+#body
+{
+	background-color: #FAF1E6;
+	height: 100%;
+	font-family: 'Yomogi', cursive;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid silver;
+}
+#footer
+{
+	height: 100%;
+	background-color: #171010;
+	color: white;
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+.cloud-img
+{
+	float: left;
+	margin-left: 15%;
+}
+.wishing-img
+{
+	width: 30%;
+	height: 30%;
+}
+.mountain-img
+{
+	width: 30%;
+	height: 30%;
+}
+.a-styling1
+{
+	margin-left: 50px;
+}
+.li-styling1
+{
+	padding-left: 50px;
+}
+.b-style1
+{
+	border-bottom: 1px solid black;
+}
+.b-style2
+{
+	font-family: 'Yomogi', cursive;
+	border-bottom: 1px solid white;
+}
+.a-styling3
+{
+	text-decoration: none;
+	color: white;
+	margin-left: 14%;
+}
